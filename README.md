@@ -6,13 +6,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzhishan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="huzhishan" /> </p>
 
 # 💫 About Me :
+<p align="justify">
 I got my Ph.D. degree at University of Macau.
 Currently, I’m working at Shanghai Mental Health Center as an assistant research fellow. 
 Before that, i worked at Beijing Normal University as a postdoctoral research fellow.
 My research is focused on the use of functional near-infrared spectroscopy (fNIRS) in neuroscience investigation.
 These investigations include fNIRS signal processing, cognitive mechanism underlying psychiatric disorders and aging, and the role of cortical activity in cognitive processing.
+</p>
 
 # Publications
+<p align="justify">
 1.	Bai, Z., Fong, K. N. K., Zhang, J., & Hu, Z. (2020). Cortical mapping of mirror visual feedback training for unilateral upper extremity: A functional near-infrared spectroscopy study. Brain Behav, 10(1), e01489. https://doi.org/10.1002/brb3.1489
 2.	Heyman, G. D., Fu, G., Barner, D., Zhishan, H., Zhou, L., & Lee, K. (2016). Children’s evaluation of public and private generosity and its relation to behavior: Evidence from China. J Exp Child Psychol, 150, 16–30. https://doi.org/10.1016/j.jecp.2016.05.001
 3.	Hu, Z., Di, X., & Yang, Z. (2023). Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations. Frontiers in Human Neuroscience, 17, 1201728. https://doi.org/10.3389/fnhum.2023.1201728
@@ -43,4 +46,4 @@ These investigations include fNIRS signal processing, cognitive mechanism underl
 28.	Xie, S., Liu, J., Hu, Y., Liu, W., Ma, C., Jin, S., Zhang, L., Kang, Y., Ding, Y., Zhang, X., Hu, Z., Cheng, W., & Yang, Z. (2023). A normative model of brain responses to social scenarios reflects the maturity of children and adolescents’ social–emotional abilities. Social Cognitive and Affective Neuroscience, 18(1), nsad062. https://doi.org/10.1093/scan/nsad062
 29.	Xu, S.-Y., Lu, F.-M., Wang, M.-Y., Hu, Z.-S., Zhang, J., Chen, Z.-Y., Armada-da-Silva, P. A. S., & Yuan, Z. (2020). Altered Functional Connectivity in the Motor and Prefrontal Cortex for Children With Down’s Syndrome: An fNIRS Study. Frontiers in Human Neuroscience, 14, 6. https://doi.org/10.3389/fnhum.2020.00006
 30.	任天虹, 胡志善, 孙红月, 刘扬, & 李纾. (2015). 选择与坚持：跨期选择与延迟满足之比较. 心理科学进展, 23(2), 303–315. https://doi.org/10.3724/sp.J.1042.2015.00303
-
+</p>
