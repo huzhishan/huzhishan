@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, <img src="https://https://github.com/huzhishan/imgs/blob/main/gif/wave.gif" 
+<h1 align="center"> Hi, <img src="https://github.com/huzhishan/imgs/blob/main/gif/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Jason Hu</h1>
