@@ -13,7 +13,7 @@ Currently, I am an Assistant Research Fellow at the Shanghai Mental Health Cente
 <p align="justify">
 I serve as an editorial board member for the Asian Journal of Psychiatry and Scientific Reports, and as a member of the Youth Working Committee of the Mental Health Rehabilitation Professional Committee of the Chinese Association of Rehabilitation Medicine.
 <p align="justify">
-My main research areas focus on the application of network analysis methods in higher cognitive functions and mental health research, including brain functional network studies and symptom network research in psychiatric disorders. I have completed one **China postdoctoral Science Foundation** project and one **National Natural Science Foundation of China (NSFC)** Youth Project.
+My main research areas focus on the application of network analysis methods in higher cognitive functions and mental health research, including brain functional network studies and symptom network research in psychiatric disorders. I have completed one <b>China postdoctoral Science Foundation</b> project and one <b>National Natural Science Foundation of China (NSFC) Youth Project</b>.
 </p>
 
 
