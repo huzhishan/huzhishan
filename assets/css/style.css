@@ -1,26 +1,133 @@
-/* 为所有段落设置两端对齐 */
-p {
-  text-align: justify;
+/* 基本样式重置 */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-/* 其他 Markdown 元素的样式 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #24292e;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* 标题样式 */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
 h1 {
-  color: #2c3e50;
-}
-
-h2 {
+  font-size: 2em;
   border-bottom: 1px solid #eaecef;
   padding-bottom: 0.3em;
 }
 
-blockquote {
-  border-left: 4px solid #dfe2e5;
-  padding-left: 1em;
-  color: #6a737d;
+h2 {
+  font-size: 1.5em;
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.3em;
 }
 
+/* 段落样式 */
+p {
+  margin-top: 0;
+  margin-bottom: 16px;
+  text-align: justify; /* 两端对齐 */
+}
+
+/* 链接样式 */
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 列表样式 */
+ul, ol {
+  padding-left: 2em;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+li {
+  margin-bottom: 0.25em;
+}
+
+/* 代码样式 */
 code {
-  background-color: #f6f8fa;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  background-color: rgba(27, 31, 35, 0.05);
   padding: 0.2em 0.4em;
   border-radius: 3px;
+  font-size: 85%;
+}
+
+pre {
+  background-color: #f6f8fa;
+  border-radius: 3px;
+  font-size: 85%;
+  line-height: 1.45;
+  overflow: auto;
+  padding: 16px;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* 引用样式 */
+blockquote {
+  margin: 0 0 16px;
+  padding: 0 1em;
+  color: #6a737d;
+  border-left: 0.25em solid #dfe2e5;
+}
+
+/* 表格样式 */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+table th, table td {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
+
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+/* 水平线样式 */
+hr {
+  height: 0.25em;
+  padding: 0;
+  margin: 24px 0;
+  background-color: #e1e4e8;
+  border: 0;
+}
+
+/* 图片样式 */
+img {
+  max-width: 100%;
+  box-sizing: content-box;
 }
