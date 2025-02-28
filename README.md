@@ -8,19 +8,20 @@
 [English](README.md) | [中文](README_zh.md)
 
 # 💫 About Me :
-
+<p align="justify">
 Currently, I am an Assistant Research Fellow at the Shanghai Mental Health Center and a Master's supervisor in the Department of Psychology at Shanghai Jiao Tong University. I earned my Ph.D. from the University of Macau and previously worked as a Postdoctoral Research Fellow at Beijing Normal University.
 
 I serve as an editorial board member for the Asian Journal of Psychiatry and Scientific Reports, and as a member of the Youth Working Committee of the Mental Health Rehabilitation Professional Committee of the Chinese Association of Rehabilitation Medicine.
 
 My main research areas focus on the application of network analysis methods in higher cognitive functions and mental health research, including brain functional network studies and symptom network research in psychiatric disorders. I have completed one **China postdoctoral Science Foundation** project and one **National Natural Science Foundation of China (NSFC)** Youth Project.
-
+</p>
 
 
 # Publications (18 Leading Author Papers)
 
 My Google Scholar Profile: https://scholar.google.com/citations?user=ctxlttsAAAAJ&hl=en
 
+<p align="justify">
  - Papers sorted by year
  - IF refers to the Journal Citation Reports impact factor and quartile for the year of publication
 
@@ -58,4 +59,4 @@ My Google Scholar Profile: https://scholar.google.com/citations?user=ctxlttsAAAA
 32.	Lin Xiaohong, Lei Victoria Lai Cheng, Li Defeng, Hu Zhishan, Xiang Yutao, Yuan Zhen. Mapping the small-world properties of brain networks in Chinese to English simultaneous interpreting by using functional near-infrared spectroscopy[J]. Journal of Innovative Optical Health Sciences, 2018, 11(03). (Other, IF=1.058, Q4).
 33.	Hu Zhishan, Zhang Juan, Couto Tania Alexandra, Xu Shiyang, Luan Ping, Yuan Zhen. Optical mapping of brain activation and connectivity in occipitotemporal cortex during Chinese character recognition[J]. Brain topography, 2018, 31(6): 1014–1028. (First, IF=3.104, Q2).
 34.	Heyman Gail D., Fu Genyue, Barner David, Zhishan Hu, Zhou Lixia, Lee Kang. Children’s evaluation of public and private generosity and its relation to behavior: Evidence from China[J]. Journal of Experimental Child Psychology, 2016, 150: 16–30. (Other, IF=2.602, Q2).
-
+</p>

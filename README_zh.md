@@ -10,9 +10,9 @@
 # 💫 个人简介 :
 <p align="justify">
   上海市精神卫生中心影像与数据中心助理研究员，上海交通大学心理学硕士生导师。博士毕业于澳门大学，曾在北京师范大学认知神经科学与学习国家重点实验室从事博士后研究。
-  
+
   目前担任Asian Journal of Psychiatry与Scientific Reports编委、中国康复医学会精神卫生康复专业委员会青年工作组委员。
-  
+
   主要研究领域为网络分析方法在高级认知及精神健康研究中的应用，包括脑功能网络研究与精神疾病症状网络研究。已结题一项博后基金和一项国自然青年项目。
 </p>
 
@@ -20,9 +20,10 @@
 
 详见Google Scholar Profile: https://scholar.google.com/citations?user=ctxlttsAAAAJ&hl=zh
 
+<p align="justify">
  - 按年份排序
  - IF为论文发表当年的JCR影响因子及其分区
-<p align="justify">
+
 
 1.	Wong Neng Chio, Hu Zhishan, Cheng Wenhong. Linking Caregivers’ Evaluation of Children’s Mood to Brain Network[J]. PsyCh Journal, 2025. (Co-First, IF=1.3, Q3).
 2.	Li Qi, Wang Die, Xiao Weilong, Tang Yingying, Sun Qi, Sun Binghai, Hu Zhishan. Structured interaction between teacher and student in the flipped classroom enhances learning and interbrain synchrony[J]. npj Science of Learning, 2024, 9(1): 1–10. (Corresponding, IF=3.6, Q1).
