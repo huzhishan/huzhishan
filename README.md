@@ -9,7 +9,7 @@
 
 # 💫 About Me :
 
-I got my Ph.D. degree at University of Macau. Currently, I’m working at Shanghai Mental Health Center as an assistant research fellow. Before that, i worked at Beijing Normal University as a postdoctoral research fellow.
+Currently, I am an Assistant Research Fellow at the Shanghai Mental Health Center and a Master's supervisor in the Department of Psychology at Shanghai Jiao Tong University. I earned my Ph.D. from the University of Macau and previously worked as a Postdoctoral Research Fellow at Beijing Normal University.
 
 I serve as an editorial board member for the Asian Journal of Psychiatry and Scientific Reports, and as a member of the Youth Working Committee of the Mental Health Rehabilitation Professional Committee of the Chinese Association of Rehabilitation Medicine.
 
