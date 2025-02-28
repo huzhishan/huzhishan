@@ -3,7 +3,24 @@ p {
   text-align: justify;
 }
 
-/* 为特定类设置两端对齐（可选） */
-.justify-text {
-  text-align: justify;
+/* 其他 Markdown 元素的样式 */
+h1 {
+  color: #2c3e50;
+}
+
+h2 {
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.3em;
+}
+
+blockquote {
+  border-left: 4px solid #dfe2e5;
+  padding-left: 1em;
+  color: #6a737d;
+}
+
+code {
+  background-color: #f6f8fa;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
 }
