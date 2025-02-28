@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="assets/css/style.css">
 <h1 align="center"> Hi, <img src="https://github.com/huzhishan/imgs/blob/main/gif/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
