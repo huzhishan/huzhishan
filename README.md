@@ -8,17 +8,19 @@
 [English](README.md) | [中文](README_zh.md)
 
 # 💫 About Me :
-<p align="justify">
-I got my Ph.D. degree at University of Macau.
-Currently, I’m working at Shanghai Mental Health Center as an assistant research fellow. 
-Before that, i worked at Beijing Normal University as a postdoctoral research fellow.
-My research is focused on the use of functional near-infrared spectroscopy (fNIRS) in neuroscience investigation.
-These investigations include fNIRS signal processing, cognitive mechanism underlying psychiatric disorders and aging, and the role of cortical activity in cognitive processing.
-</p>
 
-# Publications
+I got my Ph.D. degree at University of Macau. Currently, I’m working at Shanghai Mental Health Center as an assistant research fellow. Before that, i worked at Beijing Normal University as a postdoctoral research fellow.
 
- - 18 leading author papers (first author/co-first/corresponding/co-corresponding)
+I serve as an editorial board member for the Asian Journal of Psychiatry and Scientific Reports, and as a member of the Youth Working Committee of the Mental Health Rehabilitation Professional Committee of the Chinese Association of Rehabilitation Medicine.
+
+My main research areas focus on the application of network analysis methods in higher cognitive functions and mental health research, including brain functional network studies and symptom network research in psychiatric disorders. I have completed one **China postdoctoral Science Foundation** project and one **National Natural Science Foundation of China (NSFC)** Youth Project.
+
+
+
+# Publications (18 Leading Author Papers)
+
+My Google Scholar Profile: https://scholar.google.com/citations?user=ctxlttsAAAAJ&hl=en
+
  - Papers sorted by year
  - IF refers to the Journal Citation Reports impact factor and quartile for the year of publication
 
