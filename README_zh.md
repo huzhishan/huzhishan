@@ -20,10 +20,10 @@
 
 详见Google Scholar Profile: https://scholar.google.com/citations?user=ctxlttsAAAAJ&hl=zh
 
-<p align="justify">
+
  - 按年份排序
  - IF为论文发表当年的JCR影响因子及其分区
-
+<p align="justify">
 
 1.	Wong Neng Chio, Hu Zhishan, Cheng Wenhong. Linking Caregivers’ Evaluation of Children’s Mood to Brain Network[J]. PsyCh Journal, 2025. (Co-First, IF=1.3, Q3).
 2.	Li Qi, Wang Die, Xiao Weilong, Tang Yingying, Sun Qi, Sun Binghai, Hu Zhishan. Structured interaction between teacher and student in the flipped classroom enhances learning and interbrain synchrony[J]. npj Science of Learning, 2024, 9(1): 1–10. (Corresponding, IF=3.6, Q1).

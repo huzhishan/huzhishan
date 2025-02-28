@@ -21,9 +21,9 @@ My main research areas focus on the application of network analysis methods in h
 
 My Google Scholar Profile: https://scholar.google.com/citations?user=ctxlttsAAAAJ&hl=en
 
-<p align="justify">
  - Papers sorted by year
  - IF refers to the Journal Citation Reports impact factor and quartile for the year of publication
+<p align="justify">
 
 1.	Wong Neng Chio, Hu Zhishan, Cheng Wenhong. Linking Caregivers’ Evaluation of Children’s Mood to Brain Network[J]. PsyCh Journal, 2025. (Co-First, IF=1.3, Q3).
 2.	Li Qi, Wang Die, Xiao Weilong, Tang Yingying, Sun Qi, Sun Binghai, Hu Zhishan. Structured interaction between teacher and student in the flipped classroom enhances learning and interbrain synchrony[J]. npj Science of Learning, 2024, 9(1): 1–10. (Corresponding, IF=3.6, Q1).
