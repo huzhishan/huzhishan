@@ -22,6 +22,7 @@
 
  - 按年份排序
  - IF为论文发表当年的JCR影响因子及其分区
+<p align="justify">
 
 1.	Wong Neng Chio, Hu Zhishan, Cheng Wenhong. Linking Caregivers’ Evaluation of Children’s Mood to Brain Network[J]. PsyCh Journal, 2025. (Co-First, IF=1.3, Q3).
 2.	Li Qi, Wang Die, Xiao Weilong, Tang Yingying, Sun Qi, Sun Binghai, Hu Zhishan. Structured interaction between teacher and student in the flipped classroom enhances learning and interbrain synchrony[J]. npj Science of Learning, 2024, 9(1): 1–10. (Corresponding, IF=3.6, Q1).
@@ -57,4 +58,4 @@
 32.	Lin Xiaohong, Lei Victoria Lai Cheng, Li Defeng, Hu Zhishan, Xiang Yutao, Yuan Zhen. Mapping the small-world properties of brain networks in Chinese to English simultaneous interpreting by using functional near-infrared spectroscopy[J]. Journal of Innovative Optical Health Sciences, 2018, 11(03). (Other, IF=1.058, Q4).
 33.	Hu Zhishan, Zhang Juan, Couto Tania Alexandra, Xu Shiyang, Luan Ping, Yuan Zhen. Optical mapping of brain activation and connectivity in occipitotemporal cortex during Chinese character recognition[J]. Brain topography, 2018, 31(6): 1014–1028. (First, IF=3.104, Q2).
 34.	Heyman Gail D., Fu Genyue, Barner David, Zhishan Hu, Zhou Lixia, Lee Kang. Children’s evaluation of public and private generosity and its relation to behavior: Evidence from China[J]. Journal of Experimental Child Psychology, 2016, 150: 16–30. (Other, IF=2.602, Q2).
-
+</p>
