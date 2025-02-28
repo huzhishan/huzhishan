@@ -1,4 +1,4 @@
+theme: null
 markdown: kramdown
 kramdown:
-  parse_block_html: true
-  html_to_native: true
+  input: GFM # GitHub Flavored Markdown
