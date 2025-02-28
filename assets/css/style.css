@@ -1,0 +1,9 @@
+/* 为所有段落设置两端对齐 */
+p {
+  text-align: justify;
+}
+
+/* 为特定类设置两端对齐（可选） */
+.justify-text {
+  text-align: justify;
+}
